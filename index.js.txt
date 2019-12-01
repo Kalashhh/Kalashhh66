@@ -1,8 +1,0 @@
-const Discord = require('discord.js')
-const bot = new Discord.Client()
-
-bot.on('ready', function ()) {
-    console.log("Je suis connecté !")
-})
-
-bot.login('NjUwNTE2ODIwNjU4NDg3MzIz.XeMgNw.dx2n7edhm6PA3BZMZ3Uux4oDISkTOKEN')
